@@ -2,14 +2,14 @@
 ## Desarrollador Full-Stack Especializado en EdTech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 ---
 
 ### 🎯 Sobre Mí
 
-**Ingeniero de Software en el CFRD** | Transformando la educación a través de soluciones tecnológicas con **Vue.js**, **H5P** y **Realidad Aumentada**
+**Ingeniero de Software en el CFRD** | Transformando la educación a través de soluciones tecnológicas con **Vue.js**, **Laravel** y **Aplicaciones Móviles**
 
 Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación de Recursos Didácticos (CFRD) de la Universidad de Concepción, mi objetivo es construir aplicaciones robustas, escalables y, sobre todo, **significativas** que impulsen el aprendizaje interactivo.
 
@@ -30,10 +30,10 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### **🎮 Unity & Realidad Aumentada**
+#### **🎮 Desarrollo de Juegos & Realidad Aumentada**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-000000?style=flat&logo=vuforia&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-000000?style=flat&logo=vuforia&logoColor=white)
 
 #### **Base de Datos & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -61,7 +61,7 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
   - Frontend: Vue.js + Ionic
   - Backend: Laravel + API REST
 
-#### **🎮 Proyectos Unity & Realidad Aumentada**
+#### **🎮 Proyectos de Desarrollo de Juegos & RA**
 - **Experiencias Educativas Inmersivas** - Desarrollo de aplicaciones de RA para educación
 - **Integración Vuforia** - Creación de marcadores y experiencias interactivas
 - **Simuladores 3D** - Herramientas de aprendizaje virtual
@@ -70,10 +70,10 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 ### 🔬 Áreas de Investigación
 
-- **Realidad Aumentada en Educación** - Explorando nuevas formas de aprendizaje inmersivo
-- **H5P & xAPI** - Estándares para contenido educativo interactivo
 - **Aplicaciones Móviles Educativas** - Desarrollo de soluciones multiplataforma
-- **Integración de Tecnologías Emergentes** - Unity, AR/VR, IA en EdTech
+- **H5P & xAPI** - Estándares para contenido educativo interactivo
+- **Realidad Aumentada en Educación** - Explorando nuevas formas de aprendizaje inmersivo
+- **Integración de Tecnologías Emergentes** - Web, móvil, AR/VR, IA en EdTech
 
 ---
 
@@ -81,8 +81,8 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 - **Ingeniería de Software** - Universidad de Concepción
 - **Especialización en EdTech** - Centro de Formación de Recursos Didácticos (CFRD)
-- **Certificación Unity Developer** - Desarrollo de aplicaciones 3D y RA
 - **Certificación H5P** - Creación de contenido educativo interactivo
+- **Desarrollo Unity** - Aplicaciones 3D y Realidad Aumentada
 
 ---
 
@@ -113,8 +113,8 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 ### 🎯 Objetivos Actuales
 
+- **Desarrollar más aplicaciones móviles educativas** con Ionic y Vue.js
 - **Expandir proyectos de Realidad Aumentada** con Unity y Vuforia
-- **Desarrollar más aplicaciones móviles educativas** con Ionic
 - **Contribuir a la comunidad EdTech** con proyectos open source
 - **Explorar nuevas tecnologías** como WebXR y Machine Learning
 
