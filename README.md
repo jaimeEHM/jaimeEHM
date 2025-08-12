@@ -1,7 +1,7 @@
-# 👨‍💻 Jimmy Hernández
+# 👨‍💻 Jaime's Hernandez Marin
 ## Desarrollador Full-Stack Especializado en EdTech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-hernandez-505a8748/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
@@ -51,20 +51,30 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 ### 🎓 Proyectos Destacados
 
 #### **📱 Aplicaciones Móviles Educativas**
-- **[App Matemáticas](https://github.com/jimmks7gmail.com/appmatematicas)** - Aplicación móvil para el aprendizaje de matemáticas
-- **[App Metamorfosis](https://github.com/jimmks7gmail.com/appmetamorfosis)** - Plataforma educativa interactiva
-- **[SAC-ANFA](https://github.com/jimmks7gmail.com/SAC-ANFA)** - Sistema de Administración de Contenidos
+- **[App Matemáticas](https://github.com/jaimeEHM/appMatematicas)** - Aplicación móvil para el aprendizaje de matemáticas
+- **[App Metamorfosis](https://github.com/jaimeEHM/appMetamorfosis)** - Plataforma educativa interactiva
+- **[App Recolectores](https://github.com/jaimeEHM/appRecolectores)** - Aplicación para gestión de recolectores
+- **[Descubre Mi UdeC](https://github.com/jaimeEHM/descrubroMiUdeC)** - App para conocer lugares cercanos en la universidad
+- **[Tour UdeC](https://github.com/jaimeEHM/tourUdeC)** - Aplicación de tour virtual por la universidad
 
-#### **🌐 Aplicaciones Web**
-- **[UdeC-PC](https://github.com/jimmks7gmail.com/UdeC-PC)** - Plataforma web para la Universidad de Concepción
-- **[SGJ-ANFA](https://github.com/jimmks7gmail.com/SGJ-ANFA)** - Sistema de Gestión de Juegos ANFA
-  - Frontend: Vue.js + Ionic
-  - Backend: Laravel + API REST
+#### **🌐 Aplicaciones Web & Backends**
+- **[UdeC-Digital](https://github.com/jaimeEHM/UdeC-Digital)** - Plataforma digital para la Universidad de Concepción
+- **[SGJ-ANFA Frontend](https://github.com/jaimeEHM/SGJ-ANFA-FRONT)** - Frontend del Sistema de Gestión de Juegos ANFA
+- **[SGJ-ANFA Backend](https://github.com/jaimeEHM/SGJ-ANFA-BACK)** - Backend del Sistema de Gestión de Juegos ANFA
+- **[Backend Casos Clínicos](https://github.com/jaimeEHM/backend_casos_clinicos)** - API para gestión de casos clínicos
+- **[Internado Clínico Backend](https://github.com/jaimeEHM/internado_clinico_back)** - Backend para sistema de internado clínico
+- **[Control Acceso CFRD](https://github.com/jaimeEHM/controlAccesoCFRD)** - Aplicación de control de acceso para CFRD
 
 #### **🎮 Proyectos de Desarrollo de Juegos & RA**
 - **Experiencias Educativas Inmersivas** - Desarrollo de aplicaciones de RA para educación
 - **Integración Vuforia** - Creación de marcadores y experiencias interactivas
 - **Simuladores 3D** - Herramientas de aprendizaje virtual
+
+#### **🔧 Herramientas & Utilidades**
+- **[H5P-Preview](https://github.com/jaimeEHM/H5P-Preview)** - Herramienta de previsualización para contenido H5P
+- **[LTI LRS](https://github.com/jaimeEHM/lti_lrs)** - Conexión LRS mediante LTI a Canvas LMS
+- **[4Planning V1 & V2](https://github.com/jaimeEHM/4PlanningV1)** - Herramientas de planificación
+- **[PC Digital](https://github.com/jaimeEHM/pcDigital)** - Plataforma digital
 
 ---
 
@@ -97,17 +107,17 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 ### 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://github.com/jimmks7gmail.com)](https://github.com/jimmks7gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmks7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-hernandez-505a8748/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeEHM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhernandez@cfrd.cl)
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmks7gmail.com&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeEHM&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmks7gmail.com&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeEHM&layout=compact&theme=radical)
 
 ---
 
@@ -125,5 +135,5 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jimmks7gmail.com&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jaimeEHM&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
