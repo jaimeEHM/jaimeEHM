@@ -58,9 +58,9 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 - **[Tour UdeC](https://github.com/jaimeEHM/tourUdeC)** - Aplicación de tour virtual por la universidad
 
 #### **🌐 Aplicaciones Web & Backends**
-- **[UdeC-Digital](https://github.com/jaimeEHM/UdeC-Digital)** - Plataforma digital para la Universidad de Concepción
+<!-- - **[UdeC-Digital](https://github.com/jaimeEHM/UdeC-Digital)** - Plataforma digital para la Universidad de Concepción
 - **[SGJ-ANFA Frontend](https://github.com/jaimeEHM/SGJ-ANFA-FRONT)** - Frontend del Sistema de Gestión de Juegos ANFA
-- **[SGJ-ANFA Backend](https://github.com/jaimeEHM/SGJ-ANFA-BACK)** - Backend del Sistema de Gestión de Juegos ANFA
+- **[SGJ-ANFA Backend](https://github.com/jaimeEHM/SGJ-ANFA-BACK)** - Backend del Sistema de Gestión de Juegos ANFA -->
 - **[Backend Casos Clínicos](https://github.com/jaimeEHM/backend_casos_clinicos)** - API para gestión de casos clínicos
 - **[Internado Clínico Backend](https://github.com/jaimeEHM/internado_clinico_back)** - Backend para sistema de internado clínico
 - **[Control Acceso CFRD](https://github.com/jaimeEHM/controlAccesoCFRD)** - Aplicación de control de acceso para CFRD
@@ -74,8 +74,8 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 - **[H5P-Preview](https://github.com/jaimeEHM/H5P-Preview)** - Herramienta de previsualización para contenido H5P
 - **[LTI LRS](https://github.com/jaimeEHM/lti_lrs)** - Conexión LRS mediante LTI a Canvas LMS
 - **[4Planning V1 & V2](https://github.com/jaimeEHM/4PlanningV1)** - Herramientas de planificación
-- **[PC Digital](https://github.com/jaimeEHM/pcDigital)** - Plataforma digital
-
+<!-- - **[PC Digital](https://github.com/jaimeEHM/pcDigital)** - Plataforma digital
+ -->
 ---
 
 ### 🔬 Áreas de Investigación
@@ -91,7 +91,7 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 - **Ingeniería de Software** - Universidad de Concepción
 - **Especialización en EdTech** - Centro de Formación de Recursos Didácticos (CFRD)
-- **Certificación H5P** - Creación de contenido educativo interactivo
+<!-- - **Certificación H5P** - Creación de contenido educativo interactivo -->
 - **Desarrollo Unity** - Aplicaciones 3D y Realidad Aumentada
 
 ---
