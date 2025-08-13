@@ -113,13 +113,13 @@ Como desarrollador Full-Stack especializado en EdTech en el Centro de Formación
 
 ---
 
-### 📊 Estadísticas de GitHub
+<!-- ### 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeEHM&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeEHM&layout=compact&theme=radical)
 
----
+--- -->
 
 ### 🎯 Objetivos Actuales
 
